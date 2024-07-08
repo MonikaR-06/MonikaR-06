@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **writetomonika06@gmail.com**
 
--![Portfolio](https://github.com/monikaa06/monikaa06/assets/148076194/38729897-c8c7-442f-a689-79815475f937)
-Portfolio **https://monikaportfolio06.netlify.app/**
+- Portfolio **https://monikaportfolio06.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
