@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **writetomonika06@gmail.com**
 
-- Portfolio <a href="https://monikaportfolio06.netlify.app/"></a>
+- Portfolio **https://monikaportfolio06.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
